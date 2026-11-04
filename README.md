@@ -94,7 +94,7 @@ Notes:
 
 ## 4. License and citation
 
-This repository is released under the MIT License (see `LICENSE`). GitHub's **Cite this repository** button uses `CITATION.cff`. Each release is archived on Zenodo [add the Zenodo DOI after the first release].
+This repository is released under the MIT License (see `LICENSE`). GitHub's **Cite this repository** button uses `CITATION.cff`. Each release is archived on Zenodo. https://doi.org/10.5281/zenodo.23934083
 
 If you use this code or data, please cite:
 
