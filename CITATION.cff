@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it using the metadata below."
+title: "Effect of Image Preprocessing on OCR Accuracy of Handwritten Student Identifiers: A Comparison of Tesseract, EasyOCR and PaddleOCR"
+type: software
+authors:
+  - family-names: Perez
+    given-names: "Kenneth P."
+    email: markyheras@gmail.com
+    orcid: "https://orcid.org/0009-0007-9546-0972"
+    affiliation: "School of Graduate Studies, University of Northwestern Mindanao, Philippines"
+  - family-names: Talirongan
+    given-names: "Florence Jean B."
+    orcid: "https://orcid.org/0000-0002-3775-8208"
+    affiliation: "College of Computer Studies, Misamis University, Philippines"
+abstract: "Code, data and results for a study of how a denoise, sharpen and adaptive-threshold pipeline (100 parameter combinations) affects the recognition of handwritten student names and 12-digit Learner Reference Numbers (LRNs) by three open-source OCR engines (Tesseract, EasyOCR and PaddleOCR). The repository contains the experiment program, the analysis program, 30 photographs of answer sheets with fictitious names and LRNs, and the ground truth and paper condition of each sheet."
+keywords:
+  - "optical character recognition"
+  - "handwriting recognition"
+  - "image preprocessing"
+  - "adaptive thresholding"
+  - "Tesseract"
+  - "EasyOCR"
+  - "PaddleOCR"
+  - "character error rate"
+  - "student records"
+  - "Learner Reference Number"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Effect of Image Preprocessing on OCR Accuracy of Handwritten Student Identifiers: A Comparison of Tesseract, EasyOCR and PaddleOCR"
+  year: 2026
+  authors:
+    - family-names: Perez
+      given-names: "Kenneth P."
+      orcid: "https://orcid.org/0009-0007-9546-0972"
+    - family-names: Talirongan
+      given-names: "Florence Jean B."
+      orcid: "https://orcid.org/0000-0002-3775-8208"
