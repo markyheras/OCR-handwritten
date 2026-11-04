@@ -11,7 +11,7 @@ The study measures the effect of a denoise, sharpen and adaptive-threshold pipel
 | File | Description |
 |---|---|
 | `ocr_gui.py` | Experiment program (Tkinter GUI). Aligns each sheet, crops the Name and LRN fields, applies the preprocessing settings, runs the three engines and scores the results. |
-| `Answer_Sheet_Name_LRN_A4.png` | A4 answer-sheet template. It must be in the same folder as `ocr_gui.py`. |
+| `Answer_Sheet_Name_LRN_A4.pdf` | A4 answer-sheet template. It must be in the same folder as `ocr_gui.py`. |
 | `ocr_analysis.py` | Analysis program. Applies the selection rule and the paired bootstrap to the saved results. |
 | `requirements.txt` | Python packages and versions. |
 | `LICENSE` | MIT License. |
@@ -98,7 +98,7 @@ This repository is released under the MIT License (see `LICENSE`). GitHub's **Ci
 
 If you use this code or data, please cite:
 
-Perez, K. P., & Talirongan, F. J. B. ([year]). Effect of image preprocessing on OCR accuracy of handwritten student identifiers: A comparison of Tesseract, EasyOCR and PaddleOCR. [Venue].
+Perez, K. P., & Talirongan, F. J. B. (2026). Effect of image preprocessing on OCR accuracy of handwritten student identifiers: A comparison of Tesseract, EasyOCR and PaddleOCR. [Venue].
 
 ```bibtex
 @article{PerezTalirongan2026,
